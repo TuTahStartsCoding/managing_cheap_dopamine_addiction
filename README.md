@@ -1,5 +1,5 @@
 # managing_cheap_dopamine_addiction
-# Dopamine Reset — Complete System Guide
+## Dopamine Reset — Complete System Guide
 
 > A full-stack behavior change architecture for reducing and resolving conditions caused by cheap dopamine: low-effort sources of pleasure that spike the brain's reward system quickly but provide no long-term fulfillment.
 
